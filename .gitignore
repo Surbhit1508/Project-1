@@ -1,0 +1,19 @@
+# generated data & models (reproducible with `make all`)
+data/
+artifacts/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
